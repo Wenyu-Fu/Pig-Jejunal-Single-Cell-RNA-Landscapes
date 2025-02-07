@@ -50,3 +50,8 @@ The following analyses are included in this repository:
 - **R**: `Seurat`
 - **Differential gene expression analysis**
 - **Gene enrichment analysis and functional annotation**
+
+## 📧 Contact
+
+If you have any questions or encounter issues with this repository, feel free to contact me via email at:  
+**786967870qq@gmail.com**
