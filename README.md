@@ -40,6 +40,9 @@ The following analyses are included in this repository:
 - **🌐 11 Gene Regulatory Network (GRN) Analysis**  
   Identifying key regulatory genes and their interactions within the gene network.
 
+- **📊 12 Downsampling Analysis**  
+  Performing cell number and counts downsampling analysis to compare the differences between the original and downsampled data.
+
 ## 🧰 Key Technologies Used
 
 - **Single-cell RNA-seq analysis**
